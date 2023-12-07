@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="stylee.css">
+	<title>CSS</title>
+</head>
+<center>
+<body>
+
+<center>
+	<h1>My Biodata</h1>
+</center>
+	<p> Name:Aqif Haikal Bin Razak</p>
+
+<table>
+
+<tr>
+<th>Education</th>
+<th>Hobby</th>
+</tr>
+
+<tr>
+<td>SK Titi Tok Bandar</td>
+<td>Playing Football</td>
+</tr>
+
+<tr>
+<td>SMK Dato Sheikh Ahmad</td>
+<td>Reading</td>
+</tr>
+
+</table>
+</body>
+</center>
+</html>
